@@ -107,3 +107,8 @@ pip3 install tensorflow==2.0.0-alpha0
 # sudo apt install python-tensorflow==2.0.0-alpha0 && sudo apt install python3-tensorflow==2.0.0-alpha0 
 #
 #####################################################################
+#
+# Pyardrone Installation:
+pip install pyardrone
+pip3 install pyardrone
+#
