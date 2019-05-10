@@ -1,11 +1,11 @@
-# Electroencephalography Powered Drone 
+# Electroencephalography Powered Drone By STAR LAB BIOSCIENCE PRIVATE LIMITED, MALAYSIA
 
-## Requirements:
-    Operating system: [RASPBIAN](https://www.raspberrypi.org/downloads/raspbian/) or [UBUNTU](https://www.ubuntu.com/download/desktop)
+# Requirements:
+  >  Operating system: [RASPBIAN](https://www.raspberrypi.org/downloads/raspbian/) or [UBUNTU](https://www.ubuntu.com/download/desktop)
 
-    Hardware: [Raspberry Pi 3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/)
+  >  Hardware: [Raspberry Pi 3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/)
 
-    Database: 
+  >  Database: 
 
 
 Modules are required and can be installed using the
